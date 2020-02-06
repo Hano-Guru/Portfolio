@@ -7,7 +7,8 @@ Hanad Ahmed Abdi
 This is a webpage in which i used Hypertext Markup Language and cascading style sheet.
 
 ## Project setup instructions
-
+1.On github page copy the project link
+2.In the terminal use git clone  https://github.com/Hano-Guru/Portfolio.git
 
 ## Link to live site on GitHub Pages
 https://github.com/Hano-Guru/Portfolio
