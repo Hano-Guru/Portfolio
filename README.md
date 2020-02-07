@@ -1,7 +1,7 @@
 # Portfolio
 
 ## Author name
-Hanad Ahmed Abdi
+Hanad Ahmed Abdi (nick name Hano)
    
 ## Project discription
 This is a webpage in which i used Hypertext Markup Language and cascading style sheet.
