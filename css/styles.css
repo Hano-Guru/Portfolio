@@ -6,5 +6,11 @@ h1{
     text-align: center;
 }
 .hano{
-    text-align: center;
+    text-align: center
+    ;
+}
+div{
+.red_text{
+    colour:red;
+}
 }
