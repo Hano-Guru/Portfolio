@@ -1,15 +1,24 @@
 body{
-    background-color: lightskyblue;
+    background-image: url("http://bit.ly/2SCrRrv");
+    background-attachment: fixed;
+    background-position: center;
+    front-size:large
 }
 h1{
     text-decoration-color: darkblue;
     text-align: center;
 }
 .hano{
-    text-align: center
+    text-align: left
     ;
 }
 
 .red{
     colour:red;
 }
+.mo{
+    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fexpertphotography.com%2Fwater-splash-photography%2F&psig=AOvVaw2v2AYw8TOvTGilQU7vG_40&ust=1581622014296000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKiagaXfzOcCFQAAAAAdAAAAABAD);
+}
+img {
+    border-radius: 50%;
+  }
