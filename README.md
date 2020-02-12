@@ -11,7 +11,7 @@ This is a webpage in which i used Hypertext Markup Language and cascading style 
 2.In the terminal use git clone  https://github.com/Hano-Guru/Portfolio.git
 
 ## Link to live site on GitHub Pages
-https://github.com/Hano-Guru/Portfolio
+http://127.0.0.1:5500/
 
 ## Contact information
 bashiromar94@gmail.com
